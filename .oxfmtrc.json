@@ -1,0 +1,5 @@
+{
+  "$schema": "./node_modules/oxfmt/configuration_schema.json",
+  "singleQuote": true,
+  "ignorePatterns": ["apps/*/content/**/*.md", "apps/fe-admin-v1/ebay/*.css", "packages/db/drizzle"]
+}
